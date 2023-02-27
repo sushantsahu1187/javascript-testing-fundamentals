@@ -1,0 +1,16 @@
+{
+  "name": "hello-vitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run --reporter verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.29.1"
+  },
+  "type": "module"
+}
